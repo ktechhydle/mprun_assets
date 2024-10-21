@@ -1,2 +1,2 @@
-# mprun_assets
+# MPRUN Assets
 Collection of MPRUN's icons and logos used throughout the UI
