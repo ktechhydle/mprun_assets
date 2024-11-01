@@ -3,8 +3,8 @@
   <defs>
     <style>
       .cls-1 {
-        fill: none;
-        stroke-width: 15px;
+        fill: #c2c2c2;
+        stroke-width: 8px;
       }
 
       .cls-1, .cls-2 {
@@ -13,18 +13,18 @@
       }
 
       .cls-2 {
-        fill: #c2c2c2;
-        stroke-width: 8px;
+        fill: none;
+        stroke-width: 27px;
       }
     </style>
   </defs>
   <g id="Layer_1-2" data-name="Layer_1">
     <g>
-      <path class="cls-1" d="M439.87,470.52H61.14c-16.93,0-30.65-13.72-30.65-30.65V61.14c0-16.93,13.72-30.65,30.65-30.65h378.73"/>
-      <circle class="cls-2" cx="30.49" cy="30.49" r="26.49"/>
-      <circle class="cls-2" cx="439.87" cy="33.55" r="26.49"/>
-      <circle class="cls-2" cx="444.04" cy="470.52" r="26.49"/>
-      <circle class="cls-2" cx="30.49" cy="470.52" r="26.49"/>
+      <path class="cls-2" d="M439.87,470.52H61.14c-16.93,0-30.65-13.72-30.65-30.65V61.14c0-16.93,13.72-30.65,30.65-30.65h378.73"/>
+      <circle class="cls-1" cx="30.49" cy="30.49" r="26.49"/>
+      <circle class="cls-1" cx="439.87" cy="33.55" r="26.49"/>
+      <circle class="cls-1" cx="444.04" cy="470.52" r="26.49"/>
+      <circle class="cls-1" cx="30.49" cy="470.52" r="26.49"/>
     </g>
   </g>
 </svg>

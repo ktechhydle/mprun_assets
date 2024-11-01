@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 589.92 566.93">
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595.92 578.93">
   <defs>
     <style>
       .cls-1 {
-        fill: none;
+        stroke-width: 8px;
       }
 
       .cls-1, .cls-2, .cls-3 {
@@ -12,24 +12,24 @@
       }
 
       .cls-1, .cls-3 {
-        stroke-width: 15px;
+        fill: #c2c2c2;
       }
 
       .cls-2 {
-        stroke-width: 8px;
+        fill: none;
       }
 
       .cls-2, .cls-3 {
-        fill: #c2c2c2;
+        stroke-width: 27px;
       }
     </style>
   </defs>
   <g id="Layer_1-2" data-name="Layer_1">
     <g>
-      <circle class="cls-2" cx="283.47" cy="283.47" r="26.49"/>
-      <circle class="cls-2" cx="559.43" cy="283.47" r="26.49"/>
-      <circle class="cls-1" cx="283.47" cy="283.47" r="275.97"/>
-      <line class="cls-3" x1="281.62" y1="284.63" x2="557.77" y2="282.81"/>
+      <circle class="cls-1" cx="289.47" cy="289.47" r="26.49"/>
+      <circle class="cls-1" cx="565.43" cy="289.47" r="26.49"/>
+      <circle class="cls-2" cx="289.47" cy="289.47" r="275.97"/>
+      <line class="cls-3" x1="287.62" y1="290.63" x2="563.77" y2="288.81"/>
     </g>
   </g>
 </svg>
