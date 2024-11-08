@@ -48,25 +48,25 @@
     <circle
        cx="12"
        cy="12"
-       r="11.238585"
+       r="10.804104"
        stroke="#c2c2c2"
        stroke-width="2.57143"
        id="circle1"
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.52283;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:1.46396;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       d="M 12,17.186254 V 11.247171"
+       d="M 12,16.985754 V 11.276275"
        stroke="#c2c2c2"
        stroke-width="2.3428"
        stroke-linecap="round"
        id="path1"
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.34199;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:2.25145;stroke-dasharray:none;stroke-opacity:1" />
     <circle
        cx="12"
-       cy="-7.8916802"
-       r="0.92173833"
+       cy="-8.0505066"
+       r="0.88610411"
        transform="scale(1,-1)"
        fill="#c2c2c2"
        id="circle2"
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.891803;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.857326;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
