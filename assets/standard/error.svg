@@ -42,7 +42,7 @@
   <polygon
      points="21.41 23 16 17.591 10.59 23 9 21.41 14.409 16 9 10.591 10.591 9 16 14.409 21.409 9 23 10.591 17.591 16 23 21.41 21.41 23"
      id="polygon1"
-     style="fill:#c2c2c2;fill-opacity:1" />
+     style="fill:#c2c2c2;fill-opacity:1;paint-order:stroke fill markers;stroke-width:0.004;stroke-dasharray:none;stroke:#c2c2c2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
   <rect
      id="_Transparent_Rectangle_"
      data-name="&lt;Transparent Rectangle&gt;"
