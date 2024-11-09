@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   width="800px"
+   height="800px"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="floppy-disk-svgrepo-com.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.965"
+     inkscape:cx="400"
+     inkscape:cy="317.09845"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Floppy_Disk" />
+  <g
+     id="Floppy_Disk"
+     data-name="Floppy Disk"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.3;stroke-dasharray:none;stroke:#ffffff;stroke-opacity:1;stroke-linecap:square">
+    <path
+       d="M 22.746369,5.3162011 17.182123,0.77094972 C 16.581292,0.28815298 15.834453,0.02345095 15.063687,0.02011173 H 2.0312849 c -1.11074023,0 -2.01117317,0.90043294 -2.01117317,2.01117317 V 21.968715 c 0,1.11074 0.90043294,2.011173 2.01117317,2.011173 H 21.968715 c 1.11074,0 2.011173,-0.900433 2.011173,-2.011173 V 7.9173184 C 23.979589,6.9091697 23.526806,5.954387 22.746369,5.3162011 Z M 4.7128492,1.3608939 h 7.7094968 v 1.8368715 c 0,0.3702468 -0.300144,0.670391 -0.670391,0.670391 H 5.3832402 c -0.3702468,0 -0.670391,-0.3001442 -0.670391,-0.670391 z m 0,21.2782121 v -7.950838 c 0,-1.11074 0.9004329,-2.011173 2.0111731,-2.011173 H 17.275978 c 1.11074,0 2.011173,0.900433 2.011173,2.011173 v 7.950838 z M 22.639106,21.968715 c 0,0.370246 -0.300145,0.670391 -0.670391,0.670391 h -1.340782 v -7.950838 c -0.0051,-1.849094 -1.502861,-3.3468 -3.351955,-3.351955 H 6.7240223 c -1.8512338,0 -3.3519553,1.500721 -3.3519553,3.351955 v 7.950838 H 2.0312849 c -0.3702468,0 -0.670391,-0.300145 -0.670391,-0.670391 V 2.0312849 c 0,-0.3702468 0.3001442,-0.670391 0.670391,-0.670391 H 3.372067 v 1.8368715 c 0,1.1107402 0.900433,2.0111731 2.0111732,2.0111731 h 6.3687148 c 1.11074,0 2.011173,-0.9004329 2.011173,-2.0111731 V 1.3608939 h 1.300559 c 0.464216,0.00184 0.913777,0.1627371 1.273743,0.4558659 l 5.550838,4.5318436 c 0.477815,0.3799245 0.754633,0.9582765 0.750838,1.568715 z"
+       id="path1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.0402235;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cccssssssccccssssccssssccsscccsscsssscsssscccccs" />
+  </g>
+</svg>
